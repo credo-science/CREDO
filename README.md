@@ -19,6 +19,9 @@ Then start the program and wait. The effects are saved to BMP files in three dif
 I encourage you to get to know the CREDO project and to develop the algorithm on other platforms according 
 to your own will, imagination and fantasy;).
 
+If you do not have an intenet camera, you can use a camera from your smartphone instead. How to do it? Here is the instruction :
+https://www.digitalcitizen.life/turn-android-smartphone-webcam-windows
+
 Marek Knap
 mpknap@wp.pl
 
