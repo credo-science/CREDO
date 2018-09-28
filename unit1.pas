@@ -268,7 +268,7 @@ begin
  {Now we multiply
   Max_Noise_level by a value adapted to your camera. 1.29 for my LiveCam HD}
 
-  Maximum := Max_Noise_level * 1.28 ;
+  Maximum := Max_Noise_level;// * 1.28 ;
 
   Shot := False;
 
@@ -365,7 +365,7 @@ begin
 
               Grey := ((rgbblue shl 16) + (rgbgreen shl 8) + rgbred);
 
-             end;
+            // end;
            {Image1 is a picture of original sizes.}
             image1.Canvas.pen.Color := (Grey);
             image1.Canvas.brush.Color := (Grey);
